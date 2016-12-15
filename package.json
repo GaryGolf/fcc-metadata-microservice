@@ -1,0 +1,27 @@
+{
+  "name": "fcc-metadata-microservice",
+  "version": "1.0.0",
+  "description": "file uploading service",
+  "main": "index.js",
+  "scripts": {
+    "satrt": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryGolf/fcc-metadata-microservice.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "garygolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaryGolf/fcc-metadata-microservice/issues"
+  },
+  "homepage": "https://github.com/GaryGolf/fcc-metadata-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.1"
+  }
+}
